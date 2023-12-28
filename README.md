@@ -1,5 +1,5 @@
 # MIDI-2-CV
-MIDI-2-CV is a Raspberry Pi Pico based MIDI to CV converter
+MIDI-2-CV is a Raspberry Pi Pico based MIDI to CV converter.
 
 ## Introduction
 The MIDI-2-CV is a Eurorack module. The reason why I developing this module is because it contains the functionality I want.
@@ -26,7 +26,7 @@ Other specifications:
 * It will be possible to add an arpeggiator module. In the picture above is JP4 clone arpeggiator.
 
 ## Schematics
-The schematics are under construction so far
+The schematics are under construction so far.
 
 ## Code
 The source code is developed in C and is located in the midi_to_cv folder.
@@ -40,5 +40,5 @@ I have provided a pic showing the breadboard of the current setup.
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
-##Licence
+## Licence
 [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html)
